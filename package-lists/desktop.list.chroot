@@ -1,0 +1,49 @@
+task-japanese
+
+# i3wm
+i3
+i3blocks
+i3lock
+i3lock-fancy
+i3status
+rofi
+
+# Network
+network-manager
+network-manager-gnome
+
+# LightDM
+lightdm
+slick-greeter
+
+# Fonts
+fonts-noto
+fonts-takao
+fonts-morisawa-bizud-gothic
+fonts-morisawa-bizud-mincho
+
+# InputMethod
+fcitx5
+fcitx5-mozc
+fcitx5-skk
+
+# Editor
+emacs-gtk
+neovim
+
+# Shell
+bash-completion
+zsh
+gawk
+rsync
+
+# Develop
+git
+make
+live-build
+dctrl-tools
+yad
+zenity
+
+# Administration
+sudo

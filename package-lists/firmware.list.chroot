@@ -1,0 +1,16 @@
+bluez-firmware
+firmware-amd-graphics
+firmware-ast
+firmware-brcm80211
+firmware-intel-sound
+firmware-iwlwifi
+firmware-linux
+firmware-linux-free
+firmware-linux-nonfree
+firmware-misc-nonfree
+firmware-nvidia-tesla-gsp
+firmware-realtek
+firmware-realtek-rtl8723cs-bt
+firmware-sof-signed
+firmware-ti-connectivity
+hdmi2usb-fx2-firmware
