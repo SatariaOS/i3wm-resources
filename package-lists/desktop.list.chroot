@@ -9,6 +9,7 @@ i3status
 rofi
 dunst
 picom
+feh
 
 # terminal
 alacritty
