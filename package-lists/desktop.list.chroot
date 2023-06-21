@@ -7,10 +7,17 @@ i3lock
 i3lock-fancy
 i3status
 rofi
+dunst
+picom
+
+# terminal
+alacritty
 
 # Network
 network-manager
 network-manager-gnome
+dnsutils
+bridge-utils
 
 # LightDM
 lightdm
