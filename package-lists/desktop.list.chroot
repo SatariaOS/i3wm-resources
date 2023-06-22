@@ -14,6 +14,10 @@ feh
 # terminal
 alacritty
 
+# browser
+firefox-esr
+firefos-esr-l10n-ja
+
 # Network
 network-manager
 network-manager-gnome
